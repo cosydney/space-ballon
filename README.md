@@ -2,7 +2,7 @@
 
 You can use the template provided or make your own. 
 
-The goal of this exercice is to add Jquery to this ballon so it :
+Your mission is to add Jquery to this ballon so it :
 
 - Expands when you click on it by 20px
 - Changes color everytime you click on it
@@ -20,13 +20,13 @@ If you've finished your Jquery balloon and you've helped your peers making their
 
 Vous pouvez utiliser le template fourni ou faire le votre.
 
-Le but de cet exercice est d'ajouter du Jquery à ce ballon pour qu'il:
+Votre mission est d'ajouter du Jquery à ce ballon pour qu'il:
 
--S'étende lorsque vous cliquez dessus 20px
--Change de couleur chaque fois que vous cliquez dessus
--Quand il atteint sa taille maximale (420px), il explose et remonte à 200px
--Lorsque nous touchons le ballon (quand la souris le plane et le quitte), il change de couleur et se réduit de 5px.
-Couleurs: Passe du rouge au vert au bleu et inversement lorsque nous le touchons.
+- S'étende lorsque vous cliquez dessus 20px
+- Change de couleur chaque fois que vous cliquez dessus
+- Quand il atteint sa taille maximale (420px), il explose et remonte à 200px
+- Lorsque nous touchons le ballon (quand la souris le plane et le quitte), il change de couleur et se réduit de 5px.
+- Couleurs: Passe du rouge au vert au bleu et inversement lorsque nous le touchons.
 Optionnel:
 
 - Un bouton de lancement pour qu'il si'envole dans l'espace.
