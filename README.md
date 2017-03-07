@@ -22,9 +22,9 @@ Vous pouvez utiliser le template fourni ou faire le votre.
 
 Votre mission est d'ajouter du Jquery à ce ballon pour qu'il:
 
-- S'étende lorsque vous cliquez dessus 20px
+- S'agrandisse lorsque vous cliquez dessus de 20px
 - Change de couleur chaque fois que vous cliquez dessus
-- Quand il atteint sa taille maximale (420px), il explose et remonte à 200px
+- Quand il atteint sa taille maximale (420px), il explose et reviens à sa taille initiale de 200px
 - Lorsque nous touchons le ballon (quand la souris le plane et le quitte), il change de couleur et se réduit de 5px.
 - Couleurs: Passe du rouge au vert au bleu et inversement lorsque nous le touchons.
 
