@@ -1,4 +1,4 @@
-#Space-Balloon exercice🎈. 
+#Space-Balloon exercice🎈 
 
 You can use the template provided or make your own. 
 
@@ -11,6 +11,24 @@ The goal of this exercice is to add Jquery to this ballon so it :
 - Colors: Goes from red to green to blue and vice versa when we toggle it.
 
 Optional:
-- Have a lunch button so it flyes to outerspace. 
+- Have a launch button so it flyes to outerspace. 
 
-If you finished your Jquery balloon and you've helped your peers making their own you can do the same using only Javascript 😇. 
+If you've finished your Jquery balloon and you've helped your peers making their own you can do the same using only Javascript 😇. 
+
+#FR
+Space-Balloon exercice🎈.
+
+Vous pouvez utiliser le modèle fourni ou faire le votre.
+
+Le but de cet exercice est d'ajouter du Jquery à ce ballon pour qu'il:
+
+-S'étende lorsque vous cliquez dessus 20px
+-Change de couleur chaque fois que vous cliquez dessus
+-Quand il atteint sa taille maximale (420px), il explose et remonte à 200px
+-Lorsque nous touchons le ballon (quand la souris le plane et le quitte), il change de couleur et se réduit de 5px.
+Couleurs: Passe du rouge au vert au bleu et inversement lorsque nous le touchons.
+Optionnel:
+
+- Un bouton de lancement pour qu'il si'envole dans l'espace.
+
+Si vous avez terminé votre ballon Jquery et que vous avez aidé vos pairs à faire le leur, vous pouvez faire la même chose en utilisant uniquement du Javascript 😇.
