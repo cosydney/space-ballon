@@ -1,4 +1,4 @@
-#Space-Balloon exercice🎈 
+#Space-Balloon exercice 🎈 
 
 You can use the template provided or make your own. 
 
@@ -16,9 +16,9 @@ Optional:
 If you've finished your Jquery balloon and you've helped your peers making their own you can do the same using only Javascript 😇. 
 
 #FR
-Space-Balloon exercice🎈.
+#Exercices du Space-Balloon 🎈
 
-Vous pouvez utiliser le modèle fourni ou faire le votre.
+Vous pouvez utiliser le template fourni ou faire le votre.
 
 Le but de cet exercice est d'ajouter du Jquery à ce ballon pour qu'il:
 
