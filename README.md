@@ -27,6 +27,7 @@ Votre mission est d'ajouter du Jquery à ce ballon pour qu'il:
 - Quand il atteint sa taille maximale (420px), il explose et remonte à 200px
 - Lorsque nous touchons le ballon (quand la souris le plane et le quitte), il change de couleur et se réduit de 5px.
 - Couleurs: Passe du rouge au vert au bleu et inversement lorsque nous le touchons.
+
 Optionnel:
 
 - Un bouton de lancement pour qu'il si'envole dans l'espace.
